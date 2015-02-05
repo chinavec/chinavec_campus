@@ -1,0 +1,7 @@
+Array
+(
+    [title] => fdsf
+    [content] => fdsfd
+    [Type] => 3
+    [time] => 2014-04-02 15:09:52
+)
